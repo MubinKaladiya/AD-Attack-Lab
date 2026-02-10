@@ -1,3 +1,5 @@
+# Phase 01 - Setup
+
 ### **Objective**
 Build an isolated Active Directory lab to simulate a real enterprise environment for offensive security testing.
 
